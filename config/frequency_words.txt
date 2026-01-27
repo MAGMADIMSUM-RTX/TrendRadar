@@ -77,6 +77,10 @@ OpenAI&技术
 DeepMind
 LLM&推理
 大模型&微调
+智谱
+Google|google|谷歌
+微软
+Gemini
 
 # ==========================================
 # [SOCIETY] 民生与社会
